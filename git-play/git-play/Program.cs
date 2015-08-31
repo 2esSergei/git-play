@@ -10,6 +10,7 @@ namespace git_play
     {
         static void Main(string[] args)
         {
+            //Lilla végre megérkezett
         }
     }
 }
